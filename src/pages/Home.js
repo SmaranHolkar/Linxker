@@ -8,8 +8,8 @@ export default function Home() {
       <div className="next">
         <p>
           Not your average start up. A wake up call for change, to be free.
-          Change the way how the internet connects and behaves. We want creating
-          web 3.0 easier and more convenient.
+          Change the way how the internet connects and behaves. We want to creat
+          the ultimate ecosystems of apps and services.
         </p>
       </div>
     </div>
